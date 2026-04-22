@@ -4,7 +4,7 @@ Welcome to my QA Engineer Portfolio repository! This space highlights my experie
 ## About Me
 I’m Alexander Ross, a passionate QA Engineer with 5+ years of experience ensuring high-quality software across various industries. My journey into QA began during my time at Accenture Federal Services in San Antonio in early 2020.
 
-At Accenture, I worked as a Manual Tester for the US Postal Service where I honed my skills in UI, API, and Mobile testing environments. I later moved on to an automation tester role at Definitive Logic, where I focused on UI Testing for the Department of Defense. My expertise spans automation testing, API testing with Postman, and SQL validation using MySQL to ensure data integrity. 
+At Accenture, I worked as a Manual Tester for the US Postal Service where I honed my skills in UI, API, and Mobile testing environments. I later moved on to various automation testing and manual testing roles at Definitive Logic, where I focused on UI and Enterprise Testing. My expertise spans automation testing, API testing with Postman, and SQL validation using MySQL to ensure data integrity. 
 
 I pride myself on writing detailed test cases, managing defects, and actively contributing to Agile processes. With experience in tools like JIRA, Zephyr, and Qase.io, I thrive in fast-paced environments with tight release cycles, always ensuring software quality before it reaches users.
 
