@@ -13,15 +13,22 @@ I pride myself on writing detailed test cases, managing defects, and actively co
 - API Testing: Experience testing RESTful APIs using Postman, ensuring that the system backend operates correctly and meets business requirements.
 - SQL Querying: Perform SQL database validation
 - Cross-Functional Collaboration: I work closely with developers, business analysts, and product owners to ensure software meets both functional and user-experience standards.
-Tools
-- Testing Frameworks: Playwright, JavaScript
-API Testing: Postman, RESTful services
-Bug Tracking: JIRA, Excel
-Test Case Management: Zephr Scale
-Version Control: Git, GitHub Actions
-Databases: SQL, MySQL, PostgreSQL
-CI/CD Integration: GitHub Actions
-Collaboration: Agile/Scrum methodologies
+## Tools
+**Testing Frameworks:** Playwright, JavaScript
+
+**API Testing:** Postman, RESTful services
+
+**Bug Tracking:** JIRA, Excel
+
+**Test Case Management:** Zephr Scale
+
+**Version Control:** Git, GitHub Actions
+
+**Databases:** SQL, MySQL, PostgreSQL
+
+**CI/CD Integration:** GitHub Actions
+
+**Collaboration:** Agile/Scrum methodologies
 
 ## Public repositories of my work:
 
