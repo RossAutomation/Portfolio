@@ -1,6 +1,3 @@
-# Portfolio
-
-Welcome to my QA Engineer Portfolio repository! This space highlights my experience in software quality assurance, showcasing various test cases, bug reports, and API testing collections to demonstrate my skills in manual and automated testing.
 ## About Me
 I’m Alexander Ross, a passionate QA Engineer with 5+ years of experience ensuring high-quality software across various industries. My journey into QA began during my time at Accenture Federal Services in San Antonio in early 2020.
 
