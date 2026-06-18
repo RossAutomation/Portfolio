@@ -15,7 +15,7 @@ I pride myself on writing detailed test cases, managing defects, and actively co
 **Cross-Functional Collaboration:** I work closely with developers, business analysts, and product owners to ensure software meets both functional and user-experience standards.
 
 ## Tools
-**Testing Frameworks:** Playwright, JavaScript
+**Testing Frameworks:** Playwright, JavaScript, ALM/UFT, Selenium
 
 **API Testing:** Postman, RESTful services
 
