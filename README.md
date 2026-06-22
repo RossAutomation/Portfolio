@@ -6,13 +6,10 @@ At Accenture, I worked as a Manual Tester for the US Postal Service where I hone
 I pride myself on writing detailed test cases, managing defects, and actively contributing to Agile processes. With experience in tools like JIRA, Zephyr, and Qase.io, I thrive in fast-paced environments with tight release cycles, always ensuring software quality before it reaches users.
 
 ## Skills
-**Manual and Automated Testing:** Skilled in developing detailed test plans, executing test cases, and automating workflows using tools like Cypress and JavaScript.
-
-**API Testing:** Experience testing RESTful APIs using Postman, ensuring that the system backend operates correctly and meets business requirements.
-
-**SQL Querying:** Perform SQL database validation.
-
-**Cross-Functional Collaboration:** I work closely with developers, business analysts, and product owners to ensure software meets both functional and user-experience standards.
+**Manual & Automated Testing:** Proficient in developing comprehensive test plans, executing test cases, and automating workflows using tools such as Playwright and JavaScript.
+**API Testing:** Experienced in testing RESTful APIs using Postman, validating that system backends operate correctly and align with business requirements.
+**SQL Querying:** Skilled in performing SQL database validation to ensure data accuracy, consistency, and integrity.
+**Cross-Functional Collaboration:** Adept at partnering with developers, business analysts, and product owners to ensure software meets both functional requirements and user-experience standards.
 
 ## Tools
 **Testing Frameworks:** Playwright, JavaScript, ALM/UFT, Selenium
