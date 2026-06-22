@@ -7,8 +7,11 @@ I pride myself on writing detailed test cases, managing defects, and actively co
 
 ## Skills
 **Manual & Automated Testing:** Proficient in developing comprehensive test plans, executing test cases, and automating workflows using tools such as Playwright and JavaScript.
+
 **API Testing:** Experienced in testing RESTful APIs using Postman, validating that system backends operate correctly and align with business requirements.
+
 **SQL Querying:** Skilled in performing SQL database validation to ensure data accuracy, consistency, and integrity.
+
 **Cross-Functional Collaboration:** Adept at partnering with developers, business analysts, and product owners to ensure software meets both functional requirements and user-experience standards.
 
 ## Tools
